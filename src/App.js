@@ -4,6 +4,7 @@ import "./App.css";
 function App() {
   return (
     <main className="App">
+      <img src="logo.png" alt="NeuronForTech Logo" className="logo" />
       <section className="hero">
         <h1>NeuronForTech</h1>
         <p>Artificial intelligence powering your innovation</p>
@@ -26,6 +27,7 @@ function App() {
         <h2>Our Solutions</h2>
         <ul>
           <li><strong>ModelOps4J:</strong> Java framework to serve and monitor AI models (coming soon)</li>
+          
         </ul>
       </section>
 
@@ -41,7 +43,7 @@ function App() {
         <h2>Contact</h2>
         <p>📧 contact@neuronfortech.com</p>
         <p>📍 Based in France, available for remote or hybrid work</p>
-        <p>💼 LinkedIn – GitHub – Calendly</p>
+        <p>💼 <a href="https://www.linkedin.com/in/safouen-ferchichi-44186060" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
       </section>
     </main>
   );
