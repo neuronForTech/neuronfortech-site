@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/neuronfortech-site/static/css/main.64f3b8fb.css",
-    "main.js": "/neuronfortech-site/static/js/main.bb48d65f.js",
+    "main.css": "/neuronfortech-site/static/css/main.309ac011.css",
+    "main.js": "/neuronfortech-site/static/js/main.db4659c5.js",
     "index.html": "/neuronfortech-site/index.html",
-    "main.64f3b8fb.css.map": "/neuronfortech-site/static/css/main.64f3b8fb.css.map",
-    "main.bb48d65f.js.map": "/neuronfortech-site/static/js/main.bb48d65f.js.map"
+    "main.309ac011.css.map": "/neuronfortech-site/static/css/main.309ac011.css.map",
+    "main.db4659c5.js.map": "/neuronfortech-site/static/js/main.db4659c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.64f3b8fb.css",
-    "static/js/main.bb48d65f.js"
+    "static/css/main.309ac011.css",
+    "static/js/main.db4659c5.js"
   ]
 }
