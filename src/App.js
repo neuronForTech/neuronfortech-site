@@ -26,8 +26,6 @@ function App() {
         <h2>Our Solutions</h2>
         <ul>
           <li><strong>ModelOps4J:</strong> Java framework to serve and monitor AI models (coming soon)</li>
-          <li><strong>Contextify:</strong> AI agent with long-term memory and business contextualization (coming soon)</li>
-          <li><strong>QueryAI:</strong> Query your data with AI, no SQL needed (on demand)</li>
         </ul>
       </section>
 
