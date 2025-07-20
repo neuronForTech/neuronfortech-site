@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/neuronfortech-site/static/css/main.64f3b8fb.css",
+    "main.js": "/neuronfortech-site/static/js/main.bb48d65f.js",
+    "index.html": "/neuronfortech-site/index.html",
+    "main.64f3b8fb.css.map": "/neuronfortech-site/static/css/main.64f3b8fb.css.map",
+    "main.bb48d65f.js.map": "/neuronfortech-site/static/js/main.bb48d65f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64f3b8fb.css",
+    "static/js/main.bb48d65f.js"
+  ]
+}
