@@ -5,10 +5,12 @@ function App() {
   return (
     <main className="App">
       <section className="hero">
-        <img src="logo.png" alt="NeuronForTech Logo" style={{ width: "120px", marginBottom: "1rem" }} />
-        <h1>NeuronForTech</h1>
-        <p>Artificial intelligence powering your innovation</p>
-        <div className="buttons">
+          <div className="logo-container">
+              <img src="logo.png" alt="NeuronForTech Logo" className="logo"/>
+          </div>
+          <h1>NeuronForTech</h1>
+          <p>Artificial intelligence powering your innovation</p>
+          <div className="buttons">
           <button>Work with us</button>
           <button>Discover our frameworks</button>
         </div>
