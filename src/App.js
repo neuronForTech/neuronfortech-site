@@ -4,8 +4,8 @@ import "./App.css";
 function App() {
   return (
     <main className="App">
-      <img src="logo.png" alt="NeuronForTech Logo" className="logo" />
       <section className="hero">
+        <img src="logo.png" alt="NeuronForTech Logo" style={{ width: "120px", marginBottom: "1rem" }} />
         <h1>NeuronForTech</h1>
         <p>Artificial intelligence powering your innovation</p>
         <div className="buttons">
